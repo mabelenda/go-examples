@@ -1,0 +1,1 @@
+2020/01/09 14:35:24 Ocurrió un error open Sin-archivo.txt: The system cannot find the file specified.
